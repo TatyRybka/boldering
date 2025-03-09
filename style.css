@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+}
+.e{
+    border: 1px solid black;
+    border-radius: 10px ;
+    padding:7px;
+}
+
+.f {
+    color: black;
+    text-decoration:none;
+    font-size:20px;
+    border-bottom:solid 4px black;
+    padding:5px;
+}
+
+footer {
+    background:black;
+    border:solid 3px black;
+}
+
+footer p {
+    background:white;
+    margin:5px;
+    padding:5px;
+}
+
+h1 {
+    text-align: center;
+}
+nav {
+    text-align: center;
+    margin:5px;
+    padding:5px;
+
+}
+
+.d{
+    margin:5px;
+    border-left:dotted 5px black;
+}
